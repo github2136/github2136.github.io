@@ -1,6 +1,5 @@
 ---
 title: This is my title
-layout: post
 ---
 # 主题11
 ## 主题22
