@@ -1,3 +1,7 @@
+---
+title: This is my title
+layout: post
+---
 # 主题1
 ## 主题2
 ### 主题3
